@@ -3,7 +3,7 @@
 
 
 # Description
-Flower code tiktok trend 
+Flower code for tiktok trend
 
 Responsive Web -- bisa langsung disesuikan di file css --> style.css
 
